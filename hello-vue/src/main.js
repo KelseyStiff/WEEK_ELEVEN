@@ -10,5 +10,3 @@ Vue.prototype.$hello_api = HelloAPI
 new Vue({
   render: h => h(App),
 }).$mount('#app')
-
-

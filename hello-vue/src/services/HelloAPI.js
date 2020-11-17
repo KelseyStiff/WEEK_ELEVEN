@@ -1,3 +1,5 @@
+//use axios to fetch data from api
+
 import axios from 'axios'
 
 let base = 'api'
